@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">notice board</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user_login">User_login</string>
+    <string name="title_activity_net_connection">NetConnection</string>
+    <string name="title_activity_notice_board">NoticeBoard</string>
+
+</resources>
